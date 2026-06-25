@@ -1,6 +1,3 @@
 print("Hello world!")
-<<<<<<< HEAD
-print("Hello once again")
-=======
 print("Hello darkness my old friend")
->>>>>>> konfliktipohja/main
+print("I've come to talk with you again")
